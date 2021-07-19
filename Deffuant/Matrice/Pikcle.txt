@@ -1,0 +1,24 @@
+Graphe grille
+
+matrice1 : l=18	, t=5000 	, mu=0.5
+matrice2 : l=18	, t=20000	, mu=0.5
+matrice2 : l=18	, t=20000	, mu=0.3
+matrice4 : l=8	, t=5000	, mu=0.5
+matrice5 : l=8	, t=20000	, mu=0.5
+matrice6 : l=12	, t=20000	, mu=0.5
+matrice7 : l=18	,t=auto		, mu=0.5
+
+pic1 : 	l=20,	t=30000	, mu=0.5
+pic2 : 	l=18, 	t=30000	, mu=0.5
+pic3 : 	l=16, 	t=30000	, mu=0.5
+pic4 : 	l=12, 	t=30000	, mu=0.5
+pic5 : 	l=10, 	t=30000	, mu=0.5
+pic6 : 	l=8, 	t=20000	, mu=0.5
+pic7 : 	l=6, 	t=20000	, mu=0.5
+
+
+Graphe complet
+
+complet1 : N=500, t=2000	, mu=0.5
+complet2 : N=500, t=auto	, mu=0.5
+complet3 : N=200, t=auto	, mu=0.5
